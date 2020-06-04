@@ -1,0 +1,7612 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-04T14:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21474012",
+        "hvv:psv_type": "A",
+        "name": "Quickborn Süd",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Quickborn Süd",
+        "uic_ref": "8007064",
+        "wheelchair": "yes",
+        "wikidata": "Q19601687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9075065,
+          53.723036
+        ]
+      },
+      "id": "node/21474012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21935926",
+        "name": "Lübeck-St. Jürgen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALSJ",
+        "railway:ref:DB": "ALSJ",
+        "ref:IFOPT": "de:01003:58008",
+        "ref:IFOPT:DB": "de:01003:58008",
+        "uic_name": "Lübeck St Jürgen",
+        "uic_ref": "8003774",
+        "wheelchair": "yes",
+        "wikidata": "Q50379748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7021069,
+          53.8422971
+        ]
+      },
+      "id": "node/21935926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/22314990",
+        "hvv:psv_type": "R",
+        "name": "Brest-Aspe",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.382544,
+          53.4605814
+        ]
+      },
+      "id": "node/22314990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/22315007",
+        "hvv:psv_type": "R",
+        "name": "Harsefeld",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q15223109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4990755,
+          53.4500852
+        ]
+      },
+      "id": "node/22315007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25149874",
+        "name": "Lübeck Hauptbahnhof",
+        "official_name": "Lübeck Hbf",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AL",
+        "railway:station_category": "2",
+        "toilets:wheelchair": "yes",
+        "uic_name": "Lübeck Hbf",
+        "uic_ref": "8000237",
+        "wheelchair": "yes",
+        "wikidata": "Q564926",
+        "wikipedia": "de:Lübeck Hauptbahnhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6698551,
+          53.8675937
+        ]
+      },
+      "id": "node/25149874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26600620",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Othmarschen",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AOH",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_ref": "8004719",
+        "wheelchair": "yes",
+        "wikidata": "Q7108695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8852809,
+          53.5591518
+        ]
+      },
+      "id": "node/26600620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29040713",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S;R",
+        "light_rail": "yes",
+        "name": "Horneburg",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHOG",
+        "railway:station_category": "5",
+        "uic_ref": "8003002",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5768845,
+          53.5082936
+        ]
+      },
+      "id": "node/29040713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29040843",
+        "addr:city": "Stade",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S;R",
+        "light_rail": "yes",
+        "name": "Stade",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AST",
+        "railway:station_category": "4",
+        "train": "yes",
+        "uic_ref": "8000089",
+        "wheelchair": "yes",
+        "wikidata": "Q15965133",
+        "wikipedia": "de:Bahnhof Stade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4775887,
+          53.5960704
+        ]
+      },
+      "id": "node/29040843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29041099",
+        "name": "Cadenberge",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "yes",
+        "wikidata": "Q21013598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0584937,
+          53.7679539
+        ]
+      },
+      "id": "node/29041099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29041600",
+        "name": "Wingst",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q21013616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0977925,
+          53.7458049
+        ]
+      },
+      "id": "node/29041600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29041617",
+        "name": "Hemmoor",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "yes",
+        "wikidata": "Q20614495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1659573,
+          53.6839397
+        ]
+      },
+      "id": "node/29041617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29041639",
+        "hvv:psv_type": "R",
+        "name": "Hammah",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHAM",
+        "wikidata": "Q20614475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3675192,
+          53.6124004
+        ]
+      },
+      "id": "node/29041639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31328482",
+        "name": "Bad Bevensen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABVS",
+        "ref:IFOPT:DB": "de:03360:4302",
+        "uic_ref": "8000935",
+        "wheelchair": "yes",
+        "wikidata": "Q22917116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.573915,
+          53.0785165
+        ]
+      },
+      "id": "node/31328482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31507953",
+        "hvv:psv_type": "R",
+        "name": "Dauenhof",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ADH",
+        "uic_name": "Dauenhof",
+        "uic_ref": "8001387",
+        "wikidata": "Q19368562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6807433,
+          53.852561
+        ]
+      },
+      "id": "node/31507953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33070435",
+        "alt_name": "U S Barmbek",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Barmbek",
+        "network": "HVV",
+        "official_name": "Hamburg-Barmbek (S-Bahn)",
+        "on_demand": "no",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABAP",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Barmbek",
+        "uic_ref": "8000805",
+        "wheelchair": "no",
+        "wikidata": "Q800870",
+        "wikipedia": "de:Bahnhof Hamburg-Barmbek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0449416,
+          53.5873864
+        ]
+      },
+      "id": "node/33070435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/40612316",
+        "name": "Hesedorf",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q5745566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1953982,
+          53.4727572
+        ]
+      },
+      "id": "node/40612316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/52144713",
+        "hha_ref": "LB",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "layer": "-1",
+        "light_rail": "yes",
+        "name": "Landungsbrücken",
+        "network": "HVV",
+        "official_name": "Hamburg Landungsbrücken",
+        "operator": "DB Netz AG;DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ALAS",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Landungsbrücken",
+        "uic_ref": "8003518",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9711435,
+          53.5462334
+        ]
+      },
+      "id": "node/52144713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/53139421",
+        "name": "Eidelstedt Zentrum",
+        "public_transport": "station",
+        "rail": "yes",
+        "railway": "halt",
+        "uic_name": "Hamburg-Eidelstedt Zentrum",
+        "uic_ref": "8007044",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9012876,
+          53.6099503
+        ]
+      },
+      "id": "node/53139421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/88945566",
+        "name": "Ottersberg",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1337373,
+          53.0969197
+        ]
+      },
+      "id": "node/88945566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/90044697",
+        "hvv:psv_type": "R",
+        "name": "Schwarzenbek",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASWA",
+        "uic_ref": "8005468",
+        "wheelchair": "yes",
+        "wikidata": "Q50404843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.484957,
+          53.503774
+        ]
+      },
+      "id": "node/90044697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/90045486",
+        "name": "Boizenburg/Elbe",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WBZ",
+        "train": "yes",
+        "uic_ref": "8011230",
+        "wikidata": "Q50404519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7541756,
+          53.378098
+        ]
+      },
+      "id": "node/90045486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/99994397",
+        "name": "Pritzier",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WPRZ",
+        "uic_ref": "8012677",
+        "wikidata": "Q50404364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0829863,
+          53.3649024
+        ]
+      },
+      "id": "node/99994397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/206226420",
+        "hha_ref": "HT",
+        "hvv:psv_type": "U",
+        "name": "Hoisbüttel",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3786238",
+        "wikipedia": "en:Hoisbüttel (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1478672,
+          53.6777026
+        ]
+      },
+      "id": "node/206226420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224889147",
+        "hha_ref": "ABWD",
+        "hvv:psv_type": "A",
+        "light_rail": "yes",
+        "name": "Burgwedel",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABWD",
+        "station": "light_rail",
+        "train": "yes",
+        "uic_name": "Hamburg Burgwedel",
+        "uic_ref": "8007046",
+        "wheelchair": "limited",
+        "wikidata": "Q19601669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9084998,
+          53.647665
+        ]
+      },
+      "id": "node/224889147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224890157",
+        "addr:city": "Hamburg",
+        "addr:postcode": "22457",
+        "addr:street": "Pinneberger Straße",
+        "hvv:psv_type": "A",
+        "internet_access": "wlan",
+        "light_rail": "yes",
+        "name": "Schnelsen",
+        "network": "AKN",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "train": "yes",
+        "uic_name": "Hamburg-Schnelsen",
+        "uic_ref": "8007045",
+        "wikidata": "Q19601667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9065479,
+          53.6342106
+        ]
+      },
+      "id": "node/224890157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/231422637",
+        "name": "Heinschenwalde",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q15223499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9729312,
+          53.4986962
+        ]
+      },
+      "id": "node/231422637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/235479513",
+        "addr:street": "Dorfstraße",
+        "hvv:psv_type": "A",
+        "internet_access": "wlan",
+        "name": "Hasloh",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Hasloh",
+        "uic_ref": "8007048",
+        "wheelchair": "yes",
+        "wikidata": "Q19601684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9198994,
+          53.694685
+        ]
+      },
+      "id": "node/235479513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/242951312",
+        "hvv:psv_type": "R",
+        "name": "Apensen",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6116858,
+          53.4415417
+        ]
+      },
+      "id": "node/242951312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248345538",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Tiefstack",
+        "network": "HVV",
+        "official_name": "Hamburg-Tiefstack",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ATK",
+        "railway:station_category": "5",
+        "uic_name": "Hamburg-Tiefstack",
+        "uic_ref": "8005870",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.065495,
+          53.531284
+        ]
+      },
+      "id": "node/248345538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249675195",
+        "hha_ref": "HO",
+        "name": "Hoheluftbrücke",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3786232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976099,
+          53.5774925
+        ]
+      },
+      "id": "node/249675195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250667353",
+        "hvv:psv_type": "R",
+        "name": "Stelle",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASTE",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wikidata": "Q21514349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1094826,
+          53.3874932
+        ]
+      },
+      "id": "node/250667353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255882724",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Rothenburgsort",
+        "official_name": "Hamburg-Rothenburgsort (S-Bahn)",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AROP",
+        "railway:station_category": "5",
+        "uic_name": "Hamburg-Rothenburgsort",
+        "uic_ref": "8005191",
+        "wheelchair": "no",
+        "wikidata": "Q16220806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0442513,
+          53.5383729
+        ]
+      },
+      "id": "node/255882724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255980739",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Elbfähre Bleckede",
+        "public_transport": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7400355,
+          53.3004141
+        ]
+      },
+      "id": "node/255980739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258576519",
+        "hha_ref": "HB",
+        "layer": "-2",
+        "name": "Hauptbahnhof Süd",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3783676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0093336,
+          53.5521608
+        ]
+      },
+      "id": "node/258576519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258838164",
+        "hvv:psv_type": "R",
+        "name": "Ashausen",
+        "note": "Die Weiche im Osten gehört zum Abzweig",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AASN",
+        "wikidata": "Q21514393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1452866,
+          53.3687934
+        ]
+      },
+      "id": "node/258838164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258840104",
+        "name": "Bienenbüttel",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABIL",
+        "wikidata": "Q22917038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4842244,
+          53.1423811
+        ]
+      },
+      "id": "node/258840104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260549776",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Mittlerer Landweg",
+        "official_name": "Hamburg Mittlerer Landweg",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AML",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Mittlerer Landweg",
+        "uic_ref": "8004048",
+        "wikidata": "Q18619271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1310392,
+          53.4981636
+        ]
+      },
+      "id": "node/260549776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260712487",
+        "alt_name": "Zentraler Omnibusbahnhof Hamburg",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "ZOB Hamburg",
+        "name:en": "Bus Port Hamburg",
+        "operator": "ZOB Hamburg GmbH",
+        "public_transport": "station",
+        "short_name:de": "ZOB",
+        "wheelchair": "yes",
+        "wikidata": "Q190383",
+        "wikipedia": "de:Zentraler Omnibusbahnhof Hamburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0115358,
+          53.5519464
+        ]
+      },
+      "id": "node/260712487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260720436",
+        "hha_ref": "AT",
+        "internet_access": "wlan",
+        "layer": "-2",
+        "name": "Alter Teichweg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2465828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0649307,
+          53.5862016
+        ]
+      },
+      "id": "node/260720436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/265088027",
+        "hha_ref": "MO",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Mönckebergstraße",
+        "network": "HVV",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "1",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q827247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0019001,
+          53.5512809
+        ]
+      },
+      "id": "node/265088027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268513355",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "ferry:cable": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4201018,
+          53.8780963
+        ]
+      },
+      "id": "node/268513355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268756003",
+        "hvv:psv_type": "R",
+        "name": "Lauenburg/Elbe",
+        "official_name": "Lauenburg (Elbe)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ALAU",
+        "railway:station_category": "6",
+        "uic_name": "Lauenburg(Elbe)",
+        "uic_ref": "8003577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5682567,
+          53.36973
+        ]
+      },
+      "id": "node/268756003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268758148",
+        "name": "Echem",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AECH",
+        "uic_ref": "8001646",
+        "wikidata": "Q22586021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5372667,
+          53.3370655
+        ]
+      },
+      "id": "node/268758148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269695072",
+        "name": "Lübeck Flughafen (Airport)",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALB",
+        "uic_ref": "8003781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697332,
+          53.8045356
+        ]
+      },
+      "id": "node/269695072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271921477",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Wilhelm.tel",
+        "name": "Ulzburg Süd",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AUBS",
+        "uic_name": "Ulzburg Süd",
+        "uic_ref": "8007052",
+        "wheelchair": "limited",
+        "wikidata": "Q801543",
+        "wikipedia": "de:Bahnhof Ulzburg Süd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9728983,
+          53.7733808
+        ]
+      },
+      "id": "node/271921477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/273771038",
+        "hvv:psv_type": "R",
+        "name": "Altengörs",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Altengörs",
+        "uic_ref": "8000526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3551516,
+          53.8991778
+        ]
+      },
+      "id": "node/273771038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/273771068",
+        "hvv:psv_type": "R",
+        "name": "Bad Segeberg",
+        "network": "HVV",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASB",
+        "uic_name": "Bad Segeberg",
+        "uic_ref": "8000751",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3078883,
+          53.9339402
+        ]
+      },
+      "id": "node/273771068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/273771089",
+        "hvv:psv_type": "R",
+        "name": "Fahrenkrug",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Fahrenkrug",
+        "uic_ref": "8001953",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2532206,
+          53.9439857
+        ]
+      },
+      "id": "node/273771089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278944276",
+        "hvv:psv_type": "A",
+        "name": "Kaltenkirchen",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Kaltenkirchen(Holst)",
+        "uic_ref": "8007054",
+        "wheelchair": "yes",
+        "wikidata": "Q19609459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9662018,
+          53.8346112
+        ]
+      },
+      "id": "node/278944276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283811073",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "ferry:cable": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4182421,
+          53.8776622
+        ]
+      },
+      "id": "node/283811073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286860553",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Elbfähre Bleckede",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7346306,
+          53.2984746
+        ]
+      },
+      "id": "node/286860553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/295998494",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Elbgaustraße",
+        "network": "HVV",
+        "official_name": "Hamburg Elbgaustraße",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AEGS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Elbgaustr",
+        "uic_ref": "8001739",
+        "wheelchair": "limited",
+        "wikidata": "Q5353739",
+        "wikipedia": "de:Bahnhof Hamburg Elbgaustraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8933936,
+          53.602686
+        ]
+      },
+      "id": "node/295998494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296233463",
+        "hvv:psv_type": "A",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Wilhelm.tel",
+        "internet_access:ssid": "Mobyclick",
+        "name": "Henstedt-Ulzburg",
+        "network": "HVV",
+        "operator": "AKN Eisenbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AUB",
+        "toilets:wheelchair": "no",
+        "uic_name": "Henstedt-Ulzburg",
+        "uic_ref": "8007053",
+        "wheelchair": "limited",
+        "wikidata": "Q19609440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9822267,
+          53.795248
+        ]
+      },
+      "id": "node/296233463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296760670",
+        "name": "Scheeßel",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASL",
+        "railway:station_category": "5",
+        "wheelchair": "limited",
+        "wikidata": "Q995870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4968783,
+          53.1657963
+        ]
+      },
+      "id": "node/296760670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297861183",
+        "hvv:psv_type": "R",
+        "name": "Fresenburg",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Fresenburg",
+        "uic_ref": "8002086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3906926,
+          53.8424174
+        ]
+      },
+      "id": "node/297861183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300242481",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Stadthausbrücke",
+        "network": "HVV",
+        "official_name": "Hamburg-Stadthausbrücke",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASHS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Stadthausbrücke",
+        "uic_ref": "8005663",
+        "wheelchair": "yes",
+        "wheelchair:description": "This entrance has no elevator, but the one on the other end of the platform does. The other entrance is at street Herrengraben.",
+        "wikidata": "Q2805292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984929,
+          53.5495104
+        ]
+      },
+      "id": "node/300242481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301359593",
+        "hha_ref": "MB",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Meßberg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0008941,
+          53.5476433
+        ]
+      },
+      "id": "node/301359593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303537221",
+        "hvv:psv_type": "A",
+        "name": "Wiemersdorf",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWMD",
+        "railway:ref:DB": "AWMD",
+        "ref:IFOPT": "de:01060:37990",
+        "ref:IFOPT:DB": "de:01060:37990",
+        "uic_name": "Wiemersdorf",
+        "uic_ref": "8007059",
+        "wheelchair": "no",
+        "wikidata": "Q19614068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9171793,
+          53.9549304
+        ]
+      },
+      "id": "node/303537221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303546309",
+        "name": "Reinfeld (Holstein)",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ARD",
+        "uic_ref": "8005019",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4939071,
+          53.830204
+        ]
+      },
+      "id": "node/303546309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305470745",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Dollern",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ADR",
+        "railway:station_category": "6",
+        "station": "light_rail",
+        "uic_name": "Dollern",
+        "uic_ref": "8001493",
+        "wheelchair": "limited",
+        "wikidata": "Q5289266",
+        "wikipedia": "en:Dollern station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5580856,
+          53.5453924
+        ]
+      },
+      "id": "node/305470745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305471920",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Agathenburg",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AABG",
+        "railway:station_category": "6",
+        "station": "light_rail",
+        "uic_name": "Agathenburg",
+        "uic_ref": "8000434",
+        "wheelchair": "no",
+        "wikidata": "Q4691521",
+        "wikipedia": "en:Agathenburg station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5307094,
+          53.5643515
+        ]
+      },
+      "id": "node/305471920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305474760",
+        "hvv:psv_type": "R",
+        "name": "Himmelpforten",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHPF",
+        "railway:ref:count": "1/2",
+        "wheelchair": "yes",
+        "wikidata": "Q20614520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3114874,
+          53.6231085
+        ]
+      },
+      "id": "node/305474760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306432974",
+        "name": "Lauenbrück",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ALUB",
+        "railway:station_category": "5",
+        "uic_name": "Lauenbrück",
+        "uic_ref": "8003576",
+        "wikidata": "Q16061828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5640765,
+          53.1971209
+        ]
+      },
+      "id": "node/306432974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306439622",
+        "name": "Holm-Seppensen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHES",
+        "railway:station_category": "6",
+        "uic_ref": "8002967",
+        "wikidata": "Q21402306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8699302,
+          53.2845241
+        ]
+      },
+      "id": "node/306439622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306449499",
+        "hvv:psv_type": "R",
+        "name": "Ruschwedel",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5603005,
+          53.4462694
+        ]
+      },
+      "id": "node/306449499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306451291",
+        "hvv:psv_type": "R",
+        "name": "Bargstedt",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4459649,
+          53.4576036
+        ]
+      },
+      "id": "node/306451291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306460747",
+        "name": "Oerel",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0328353,
+          53.4941641
+        ]
+      },
+      "id": "node/306460747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306469340",
+        "name": "Herzhorn",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.484134,
+          53.78356
+        ]
+      },
+      "id": "node/306469340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312586262",
+        "hvv:psv_type": "U",
+        "name": "Überseequartier",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q209371",
+        "wikipedia": "de:U-Bahnhof Überseequartier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9984314,
+          53.5404236
+        ]
+      },
+      "id": "node/312586262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332785625",
+        "name": "Herrnburg",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WHB",
+        "railway:station_category": "6",
+        "uic_ref": "8011864",
+        "wheelchair": "yes",
+        "wikidata": "Q50379764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7597958,
+          53.8377199
+        ]
+      },
+      "id": "node/332785625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332785782",
+        "name": "Lüdersdorf (Meckl)",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "WLF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8149461,
+          53.8329494
+        ]
+      },
+      "id": "node/332785782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332786255",
+        "name": "Schönberg (Meckl)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WSBG",
+        "uic_ref": "8012902",
+        "wikidata": "Q50379770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9279621,
+          53.8535346
+        ]
+      },
+      "id": "node/332786255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/332786689",
+        "name": "Grieben (Meckl)",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WGBN",
+        "uic_ref": "8011702",
+        "wikidata": "Q50379774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0684863,
+          53.8513071
+        ]
+      },
+      "id": "node/332786689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/349279428",
+        "name": "Sagehorn",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASAG",
+        "railway:station_category": "6",
+        "uic_name": "Sagehorn",
+        "uic_ref": "8005256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.023395,
+          53.0842872
+        ]
+      },
+      "id": "node/349279428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413482785",
+        "name": "Sottrum",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AS",
+        "railway:station_category": "5",
+        "wikidata": "Q16061782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2502289,
+          53.1012963
+        ]
+      },
+      "id": "node/413482785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414938320",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Schiffahrt Ratzeburger See",
+        "public_transport": "station",
+        "toilets:wheelchair": "no",
+        "website": "https://www.schiffahrt-ratzeburg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7636527,
+          53.7002719
+        ]
+      },
+      "id": "node/414938320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429844189",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Lühe",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6332636,
+          53.5729912
+        ]
+      },
+      "id": "node/429844189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430203857",
+        "hha_ref": "JG",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Jungfernstieg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "uic_name": "Hamburg Jungfernstieg",
+        "uic_ref": "8003137",
+        "wheelchair": "limited",
+        "wheelchair:description": "Nur innerhalb der U2/U4 station: Aufzug: zwischen U2 und U4,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9940377,
+          53.5520998
+        ]
+      },
+      "id": "node/430203857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/504929032",
+        "hha_ref": "SK",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Schmalenbeck",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15103413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2601856,
+          53.6533879
+        ]
+      },
+      "id": "node/504929032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/504966244",
+        "hha_ref": "KI",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "yes",
+        "name": "Kiekut",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q15132786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2802566,
+          53.6530231
+        ]
+      },
+      "id": "node/504966244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505815723",
+        "hha_ref": "GH",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Großhansdorf",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15132779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2868177,
+          53.6627288
+        ]
+      },
+      "id": "node/505815723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/538032518",
+        "hha_ref": "BP",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Buchenkamp",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15103466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1850709,
+          53.6529577
+        ]
+      },
+      "id": "node/538032518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/539475024",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Museumsufer/Dom",
+        "public_transport": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7771003,
+          53.7001986
+        ]
+      },
+      "id": "node/539475024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/540173264",
+        "hha_ref": "LB",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "layer": "2",
+        "name": "Landungsbrücken",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "subway": "yes",
+        "uic_name": "Hamburg Landungsbrücken",
+        "uic_ref": "8003518",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9713353,
+          53.5458595
+        ]
+      },
+      "id": "node/540173264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/575145980",
+        "name": "Pansdorf",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "APF",
+        "uic_ref": "8004750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7033538,
+          53.980843
+        ]
+      },
+      "id": "node/575145980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601503219",
+        "name": "Schwanheide",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "WSAH",
+        "railway:ref:count": "1/2",
+        "railway:station_category": "6",
+        "uic_ref": "8012933",
+        "wikipedia": "de:Bahnhof Schwanheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6901043,
+          53.4279658
+        ]
+      },
+      "id": "node/601503219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603695300",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Römnitz",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7662433,
+          53.7083294
+        ]
+      },
+      "id": "node/603695300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617825071",
+        "hha_ref": "WM",
+        "hvv:psv_type": "U",
+        "name": "Wandsbek Markt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2466085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0667414,
+          53.5716636
+        ]
+      },
+      "id": "node/617825071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617871270",
+        "hha_ref": "WK",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Wandsbek-Gartenstadt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1398047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0743469,
+          53.5923256
+        ]
+      },
+      "id": "node/617871270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620379882",
+        "hvv:psv_type": "R",
+        "name": "Bad Oldesloe",
+        "network": "SH-Tarif",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AO",
+        "railway:station_category": "2",
+        "uic_ref": "8000023",
+        "wheelchair": "yes",
+        "wikidata": "Q20023048",
+        "wikipedia": "de:Bahnhof Bad Oldesloe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3822381,
+          53.8052678
+        ]
+      },
+      "id": "node/620379882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/626978935",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Buchholz",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7487265,
+          53.7342307
+        ]
+      },
+      "id": "node/626978935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667460998",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Rissen",
+        "network": "HVV",
+        "official_name": "Hamburg-Rissen Hp",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ARI",
+        "railway:station_category": "5",
+        "uic_name": "Rissen",
+        "uic_ref": "8005106",
+        "wheelchair": "yes",
+        "wikidata": "Q16220502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7572831,
+          53.5831819
+        ]
+      },
+      "id": "node/667460998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/794838647",
+        "name": "Glückstadt",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AGST",
+        "uic_ref": "8002293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4283879,
+          53.7885615
+        ]
+      },
+      "id": "node/794838647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/794838651",
+        "name": "Kremperheide",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q36080177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4802537,
+          53.8815335
+        ]
+      },
+      "id": "node/794838651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/794838655",
+        "name": "Wilster",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWIR",
+        "railway:station_category": "5",
+        "uic_ref": "8006460",
+        "wheelchair": "yes",
+        "wikidata": "Q30340466",
+        "wikipedia": "de:Bahnhof Wilster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3836481,
+          53.9262518
+        ]
+      },
+      "id": "node/794838655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/860308456",
+        "hvv:psv_type": "R",
+        "name": "Bardowick",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABAD",
+        "wikidata": "Q21514429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3721618,
+          53.2904036
+        ]
+      },
+      "id": "node/860308456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/976776639",
+        "hvv:psv_type": "R;S",
+        "light_rail": "yes",
+        "name": "Pinneberg",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AP",
+        "railway:station_category": "3",
+        "station": "light_rail",
+        "train": "yes",
+        "uic_name": "Pinneberg",
+        "uic_ref": "8004819",
+        "wheelchair": "no",
+        "wikidata": "Q801317",
+        "wikipedia": "de:Bahnhof Pinneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7976864,
+          53.6550342
+        ]
+      },
+      "id": "node/976776639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/994141457",
+        "name": "St. Michaelisdonn",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASD",
+        "uic_ref": "8005655",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1182829,
+          53.9892774
+        ]
+      },
+      "id": "node/994141457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027865206",
+        "name": "Bremervörde",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q4960576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1397046,
+          53.4832284
+        ]
+      },
+      "id": "node/1027865206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1104185426",
+        "name": "Brahlstorf",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WBRH",
+        "uic_ref": "8011248",
+        "wikidata": "Q50404419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.953624,
+          53.364017
+        ]
+      },
+      "id": "node/1104185426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1197626211",
+        "hha_ref": "WA",
+        "hvv:psv_type": "U",
+        "name": "Wartenau",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2466086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0354076,
+          53.5646508
+        ]
+      },
+      "id": "node/1197626211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1235197664",
+        "hvv:psv_type": "S",
+        "name": "Hochkamp",
+        "network": "HVV",
+        "official_name": "Hamburg Hochkamp",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHPS",
+        "railway:ref:count": "1/2",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Hochkamp",
+        "uic_ref": "8002873",
+        "wheelchair": "yes",
+        "wikidata": "Q5875382",
+        "wikipedia": "en:Hochkamp station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8415269,
+          53.5616623
+        ]
+      },
+      "id": "node/1235197664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237025548",
+        "hvv:psv_type": "R",
+        "layer": "1",
+        "level": "1",
+        "name": "Maschen",
+        "official_name": "Maschen Pbf",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AMA",
+        "wikidata": "Q21514332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0662668,
+          53.4033627
+        ]
+      },
+      "id": "node/1237025548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241952231",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "line": "S1",
+        "name": "Wedel",
+        "official_name": "Wedel (Holst)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWL",
+        "railway:station_category": "5",
+        "uic_name": "Wedel(Holst)",
+        "uic_ref": "8006236",
+        "wheelchair": "yes",
+        "wikidata": "Q7979138",
+        "wikipedia": "de:Bahnhof Wedel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7054108,
+          53.5821511
+        ]
+      },
+      "id": "node/1241952231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430457444",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Schiffahrt Ratzeburger See",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7660181,
+          53.7807336
+        ]
+      },
+      "id": "node/1430457444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1586118346",
+        "hha_ref": "MH",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "layer": "-2",
+        "name": "Messehallen",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q275505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9767239,
+          53.5580721
+        ]
+      },
+      "id": "node/1586118346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1617961007",
+        "hvv:psv_type": "S",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Thesdorf",
+        "network": "HVV",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ATHS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Thesdorf",
+        "uic_ref": "8005858",
+        "wheelchair": "yes",
+        "wikidata": "Q7783324",
+        "wikipedia": "en:Thesdorf station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8143358,
+          53.6440678
+        ]
+      },
+      "id": "node/1617961007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1648288162",
+        "hha_ref": "TR",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Trabrennbahn",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3997085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1028727,
+          53.598434
+        ]
+      },
+      "id": "node/1648288162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680910488",
+        "hvv:psv_type": "R;S",
+        "level": "-1",
+        "light_rail": "yes",
+        "name": "Hamburg Hauptbahnhof",
+        "official_name": "Hamburg Hbf",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AH",
+        "railway:station_category": "1",
+        "ref:station": "2514",
+        "short_name": "Hamburg Hbf",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "uic_name": "Hamburg Hbf",
+        "uic_ref": "8002549",
+        "wheelchair": "yes",
+        "wikidata": "Q6456",
+        "wikipedia": "de:Hamburg Hauptbahnhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0064364,
+          53.5531993
+        ]
+      },
+      "id": "node/1680910488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1716794476",
+        "name": "Burg (Dithmarschen)",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ABRD",
+        "uic_name": "Burg(Dithm)",
+        "uic_ref": "8001273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2496558,
+          54.0079476
+        ]
+      },
+      "id": "node/1716794476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762149398",
+        "hvv:psv_type": "R",
+        "name": "Leitstade",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q22812470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9123797,
+          53.1693085
+        ]
+      },
+      "id": "node/1762149398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1885007847",
+        "hvv:psv_type": "R",
+        "name": "Ahrensburg-Gartenholz",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AAHG",
+        "uic_ref": "8000480",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2519433,
+          53.6890433
+        ]
+      },
+      "id": "node/1885007847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894315329",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Wohltorf",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWLF",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_ref": "8006541",
+        "wheelchair": "yes",
+        "wikidata": "Q19590358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2781374,
+          53.5206983
+        ]
+      },
+      "id": "node/1894315329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944623930",
+        "hha_ref": "NM",
+        "hvv:psv_type": "U",
+        "name": "Niendorf Markt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2466015",
+        "wikipedia": "en:Niendorf Markt (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9515185,
+          53.6196987
+        ]
+      },
+      "id": "node/1944623930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944744060",
+        "hha_ref": "SW",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Schippelsweg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SW",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2363888",
+        "wikipedia": "en:Schippelsweg (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9525076,
+          53.6352958
+        ]
+      },
+      "id": "node/1944744060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054863713",
+        "name": "Erbstorf",
+        "public_transport": "station",
+        "railway": "station",
+        "tourism": "yes",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4759501,
+          53.2727363
+        ]
+      },
+      "id": "node/2054863713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2127366843",
+        "name": "Lübeck-Dänischburg IKEA",
+        "network": "NAH.SH",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALD A",
+        "railway:ref:parent": "ALD",
+        "railway:station_category": "6",
+        "train": "yes",
+        "uic_ref": "8003786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7347452,
+          53.9110878
+        ]
+      },
+      "id": "node/2127366843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2424581843",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Elbfähre Bleckede (bei Hochwasser)",
+        "public_transport": "station",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7364003,
+          53.2929199
+        ]
+      },
+      "id": "node/2424581843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425412532",
+        "name": "Bleckeder Hafen",
+        "public_transport": "station",
+        "railway": "station",
+        "service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7361992,
+          53.2928144
+        ]
+      },
+      "id": "node/2425412532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459919677",
+        "level": "-1",
+        "light_rail": "yes",
+        "name": "Hamburg Hauptbahnhof",
+        "network": "HVV",
+        "note": "Der Bahnhof der S-Bahn ist eine separate Betriebsstelle und daher ein separater Bahnhofs-Node!",
+        "official_name": "Hamburg Hbf (S-Bahn)",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "public_transport:station:part": "yes",
+        "railway": "station",
+        "railway:ref": "AHS",
+        "railway:station:part": "yes",
+        "railway:station_category": "1",
+        "ref:station": "2514",
+        "short_name": "Hamburg Hbf",
+        "station": "light_rail",
+        "toilets:wheelchair": "yes",
+        "uic_name": "Hamburg Hbf (S-Bahn)",
+        "uic_ref": "8098549",
+        "wheelchair": "yes",
+        "wikidata": "Q6456",
+        "wikipedia": "de:Hamburg Hauptbahnhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0075644,
+          53.5526959
+        ]
+      },
+      "id": "node/2459919677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2470903095",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Berliner Tor",
+        "network": "HVV",
+        "official_name": "Hamburg Berliner Tor",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABTS",
+        "railway:station_category": "3",
+        "station": "light_rail",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0249771,
+          53.5527185
+        ]
+      },
+      "id": "node/2470903095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541447740",
+        "name": "Lübeck-Hochschulstadtteil",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALHS",
+        "uic_ref": "8003785",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6889628,
+          53.8304946
+        ]
+      },
+      "id": "node/2541447740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630595165",
+        "hha_ref": "OH",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Ohlsdorf",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031328,
+          53.6205796
+        ]
+      },
+      "id": "node/2630595165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2682432552",
+        "hha_ref": "SL",
+        "name": "Schlump",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q275746",
+        "wikipedia": "en:Schlump (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9700757,
+          53.5675879
+        ]
+      },
+      "id": "node/2682432552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882508202",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Wandsbeker Chaussee",
+        "network": "HVV",
+        "official_name": "Hamburg Wandsbeker Chaussee",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AWCH",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Wandsbeker Chaussee",
+        "uic_ref": "8006198",
+        "wheelchair": "no",
+        "wikidata": "Q800880",
+        "wikipedia": "de:Bahnhof Hamburg Wandsbeker Chaussee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0600205,
+          53.5696668
+        ]
+      },
+      "id": "node/2882508202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817675",
+        "hha_ref": "BI",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Billstedt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465844",
+        "wikipedia": "en:Billstedt (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106876,
+          53.5425937
+        ]
+      },
+      "id": "node/3020817675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817676",
+        "hha_ref": "BG",
+        "name": "Burgstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2804233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0420061,
+          53.5557979
+        ]
+      },
+      "id": "node/3020817676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817678",
+        "hha_ref": "HK",
+        "name": "Hammer Kirche",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465914",
+        "wikipedia": "en:Hammer Kirche (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0555254,
+          53.5556085
+        ]
+      },
+      "id": "node/3020817678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817680",
+        "hha_ref": "HN",
+        "name": "Horner Rennbahn",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Aufzug: EKZ<>U2, U4",
+        "wikidata": "Q2465936",
+        "wikipedia": "en:Horner Rennbahn (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0837976,
+          53.553884
+        ]
+      },
+      "id": "node/3020817680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817681",
+        "hha_ref": "LE",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Legienstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0954582,
+          53.5474087
+        ]
+      },
+      "id": "node/3020817681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817682",
+        "hha_ref": "MS",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Merkenstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q1694188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1247497,
+          53.5386364
+        ]
+      },
+      "id": "node/3020817682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020817685",
+        "hha_ref": "MG",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Mümmelmannsberg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2466005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1500277,
+          53.5281075
+        ]
+      },
+      "id": "node/3020817685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020822246",
+        "hha_ref": "SF",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Steinfurther Allee",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q2466074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1392385,
+          53.5410403
+        ]
+      },
+      "id": "node/3020822246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034089803",
+        "hha_ref": "BE",
+        "hvv:psv_type": "U",
+        "name": "Berne",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1751987",
+        "wikipedia": "en:Berne (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1399662,
+          53.6270857
+        ]
+      },
+      "id": "node/3034089803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034089804",
+        "hha_ref": "FU",
+        "hvv:psv_type": "U",
+        "name": "Fuhlsbüttel",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15076918",
+        "wikipedia": "en:Fuhlsbüttel (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026851,
+          53.6324114
+        ]
+      },
+      "id": "node/3034089804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034089805",
+        "hha_ref": "HR",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Hallerstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9890301,
+          53.5728163
+        ]
+      },
+      "id": "node/3034089805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034089807",
+        "hha_ref": "KB",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Klein Borstel",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q15098644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0332975,
+          53.6280261
+        ]
+      },
+      "id": "node/3034089807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034089808",
+        "hha_ref": "OZ",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Ochsenzoll",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q2466023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0018152,
+          53.6780751
+        ]
+      },
+      "id": "node/3034089808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3059966336",
+        "hvv:psv_type": "R",
+        "image": "https://commons.wikimedia.org/wiki/File:Handeloh_Bahnhof.jpg",
+        "name": "Handeloh",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHAN",
+        "railway:station_category": "6",
+        "uic_ref": "8002575",
+        "wheelchair": "yes",
+        "wikidata": "Q21514481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8447461,
+          53.241973
+        ]
+      },
+      "id": "node/3059966336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3059966345",
+        "name": "Schneverdingen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASDN",
+        "railway:station_category": "6",
+        "toilets:wheelchair": "no",
+        "uic_ref": "8005390",
+        "wheelchair": "yes",
+        "wikidata": "Q23012083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7987489,
+          53.1112391
+        ]
+      },
+      "id": "node/3059966345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3068973927",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Landwehr",
+        "network": "HVV",
+        "official_name": "Hamburg Landwehr",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ALAN",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Landwehr",
+        "uic_ref": "8003519",
+        "wheelchair": "yes",
+        "wikidata": "Q16220800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0378965,
+          53.5611691
+        ]
+      },
+      "id": "node/3068973927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070913590",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Hoheneichen",
+        "network": "HVV",
+        "official_name": "Hamburg Hoheneichen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHCH",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Hoheneichen",
+        "uic_ref": "8002946",
+        "wheelchair": "yes",
+        "wikidata": "Q19572551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0677176,
+          53.6355141
+        ]
+      },
+      "id": "node/3070913590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070913591",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Kornweg (Klein Borstel)",
+        "official_name": "Hamburg Kornweg (Klein Borstel)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AKWS",
+        "railway:station_category": "6",
+        "uic_name": "Hamburg Kornweg(Klein Borstel)",
+        "uic_ref": "8003410",
+        "wheelchair": "no",
+        "wikidata": "Q19462857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0541722,
+          53.632443
+        ]
+      },
+      "id": "node/3070913591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070913592",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Poppenbüttel",
+        "network": "HVV",
+        "official_name": "Hamburg-Poppenbüttel",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "APB",
+        "railway:station_category": "5",
+        "uic_name": "Poppenbüttel",
+        "uic_ref": "8004862",
+        "wheelchair": "yes",
+        "wikidata": "Q7229516",
+        "wikipedia": "de:Bahnhof Hamburg-Poppenbüttel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0940214,
+          53.6521774
+        ]
+      },
+      "id": "node/3070913592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070913593",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "internet_access": "wlan",
+        "level": "1",
+        "light_rail": "yes",
+        "name": "Wellingsbüttel",
+        "network": "HVV",
+        "official_name": "Hamburg-Wellingsbüttel",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AWBS",
+        "railway:station_category": "5",
+        "start_date": "12.1.1918",
+        "uic_name": "Wellingsbüttel",
+        "uic_ref": "8006319",
+        "website": "https://www.bahnhof.de/bahnhof-de/bahnhof/Wellingsbuettel-1034220",
+        "wheelchair": "yes",
+        "wikidata": "Q19572665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0827111,
+          53.641249
+        ]
+      },
+      "id": "node/3070913593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081485464",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "layer": "1",
+        "light_rail": "yes",
+        "name": "Veddel (BallinStadt)",
+        "network": "HVV",
+        "official_name": "Hamburg-Veddel (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AVLS",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg-Veddel",
+        "uic_ref": "8006062",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0132217,
+          53.5214554
+        ]
+      },
+      "id": "node/3081485464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081690840",
+        "hha_ref": "HU",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Hudtwalckerstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2465932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9961041,
+          53.5945497
+        ]
+      },
+      "id": "node/3081690840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081702198",
+        "hha_ref": "SI",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Sierichstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q1417831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0010633,
+          53.5903854
+        ]
+      },
+      "id": "node/3081702198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3082186881",
+        "hvv:psv_type": "A",
+        "name": "Quickborn",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Quickborn",
+        "uic_ref": "8007049",
+        "wheelchair": "yes",
+        "wikidata": "Q19601692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9047322,
+          53.7311574
+        ]
+      },
+      "id": "node/3082186881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100246452",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Elbfähre Bleckede (bei Hochwasser)",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7440355,
+          53.2994034
+        ]
+      },
+      "id": "node/3100246452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3128456543",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Allermöhe",
+        "network": "HVV",
+        "official_name": "Hamburg-Allermöhe (S-Bahn)",
+        "on_demand": "no",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AALH",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg-Allermöhe",
+        "uic_ref": "8000779",
+        "wheelchair": "limited",
+        "wikidata": "Q4732127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159302,
+          53.4903136
+        ]
+      },
+      "id": "node/3128456543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129405072",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "layer": "1",
+        "light_rail": "yes",
+        "name": "Hammerbrook",
+        "network": "HVV",
+        "official_name": "Hamburg-Hammerbrook",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHAB",
+        "railway:ref:parent": "AH",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "toilets:wheelchair": "no",
+        "uic_name": "Hamburg-Hammerbrook",
+        "uic_ref": "8004266",
+        "wheelchair": "yes",
+        "wikidata": "Q800872",
+        "wikipedia": "de:Bahnhof Hamburg-Hammerbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0235243,
+          53.5467737
+        ]
+      },
+      "id": "node/3129405072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129651718",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Sternschanze (Messe)",
+        "network": "HVV",
+        "official_name": "Hamburg Sternschanze (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASST",
+        "railway:station_category": "3",
+        "uic_name": "Hamburg Sternschanze",
+        "uic_ref": "8070146",
+        "wheelchair": "yes",
+        "wheelchair:description": "Aufzug nur zum S-Bahnsteig vorhanden",
+        "wikidata": "Q321523",
+        "wikipedia": "de:Bahnhof Hamburg Sternschanze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9677995,
+          53.5638296
+        ]
+      },
+      "id": "node/3129651718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135325888",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Neugraben",
+        "network": "HVV",
+        "official_name": "Hamburg-Neugraben (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ANRS",
+        "railway:station_category": "3",
+        "uic_name": "Hamburg-Neugraben",
+        "uic_ref": "8002557",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8524866,
+          53.4740715
+        ]
+      },
+      "id": "node/3135325888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135325889",
+        "name": "Neugraben",
+        "network": "HVV",
+        "official_name": "Hamburg-Neugraben",
+        "on_demand": "no",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ANR",
+        "uic_name": "Neugraben",
+        "wheelchair": "limited",
+        "wheelchair:description": "Wird nicht benutzt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8516775,
+          53.4742238
+        ]
+      },
+      "id": "node/3135325889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135336139",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Harburg",
+        "network": "HVV",
+        "official_name": "Hamburg-Harburg (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHRS",
+        "railway:station_category": "2",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Harburg(S)",
+        "uic_ref": "8098147",
+        "wheelchair": "yes",
+        "wikidata": "Q566812",
+        "wikipedia": "de:Bahnhof Hamburg-Harburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9913357,
+          53.4569544
+        ]
+      },
+      "id": "node/3135336139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135336140",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Neuwiedenthal",
+        "network": "HVV",
+        "official_name": "Hamburg-Neuwiedenthal",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ANWS",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Neuwiedenthal",
+        "uic_ref": "8006750",
+        "wheelchair": "yes",
+        "wikidata": "Q18748608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8774798,
+          53.473003
+        ]
+      },
+      "id": "node/3135336140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137287937",
+        "hvv:psv_type": "S;R",
+        "light_rail": "yes",
+        "name": "Aumühle",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AAH",
+        "railway:station_category": "4",
+        "uic_ref": "8000669",
+        "wikidata": "Q18619162",
+        "wikipedia": "de:Bahnhof Aumühle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3144857,
+          53.529955
+        ]
+      },
+      "id": "node/3137287937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183841634",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Diebsteich",
+        "network": "HVV",
+        "official_name": "Hamburg Diebsteich",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ADT",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_name": "Hamburg Diebsteich",
+        "uic_ref": "8001438",
+        "wheelchair": "no",
+        "wikidata": "Q5274507",
+        "wikipedia": "de:Bahnhof Hamburg Diebsteich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9342079,
+          53.5688835
+        ]
+      },
+      "id": "node/3183841634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183841635",
+        "hvv:psv_type": "R",
+        "light_rail": "yes",
+        "name": "Hamburg-Altona",
+        "network": "HVV",
+        "operator": "DB Netz AG;DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AA",
+        "railway:station_category": "1",
+        "uic_name": "Hamburg-Altona",
+        "uic_ref": "8002553",
+        "wheelchair": "yes",
+        "wikidata": "Q650270",
+        "wikipedia": "de:Bahnhof Hamburg-Altona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9351453,
+          53.5538295
+        ]
+      },
+      "id": "node/3183841635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3197892918",
+        "hha_ref": "RH",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Rauhes Haus",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q2466044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066125,
+          53.5542084
+        ]
+      },
+      "id": "node/3197892918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3205295000",
+        "name": "Ahrensburg",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AAHR",
+        "uic_ref": "8000446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2361064,
+          53.6690745
+        ]
+      },
+      "id": "node/3205295000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3236186817",
+        "hha_ref": "BA",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Barmbek",
+        "network": "HVV",
+        "official_name": "U S Barmbek",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0445885,
+          53.5871782
+        ]
+      },
+      "id": "node/3236186817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3239383462",
+        "hvv:psv_type": "R",
+        "name": "Hamburg-Rahlstedt",
+        "network": "HVV",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Hamburg-Rahlstedt",
+        "uic_ref": "8002558",
+        "wheelchair": "yes",
+        "wikidata": "Q22341410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.154598,
+          53.604959
+        ]
+      },
+      "id": "node/3239383462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248862044",
+        "addr:city": "Wulfsen",
+        "addr:street": "Birkenstraße",
+        "name": "Wulfsen Nord",
+        "public_transport": "station",
+        "railway": "station",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1492996,
+          53.3003625
+        ]
+      },
+      "id": "node/3248862044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3255993296",
+        "alt_name": "Messe- u. Kongreßbahnhof",
+        "hha_ref": "ADST",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Hamburg Dammtor / Universität",
+        "official_name": "Hamburg Dammtor (S-Bahn)",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:note": "Dammtor hat keine Weichen und ist daher ein Haltepunkt und eigenständig von der Betriebsstelle auf der Fernbahn!",
+        "railway:ref": "ADST",
+        "railway:station_category": "2",
+        "station": "light_rail",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9894307,
+          53.5611136
+        ]
+      },
+      "id": "node/3255993296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3255993297",
+        "alt_name": "Messe- u. Kongreßbahnhof",
+        "hvv:barrier_free": "yes",
+        "light_rail": "yes",
+        "name": "Hamburg Dammtor / Universität",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:note": "Dammtor hat keine Weichen und ist daher ein Haltepunkt und eigenständig von der Betriebsstelle auf der S-Bahn!",
+        "railway:ref": "ADF",
+        "railway:station_category": "2",
+        "train": "yes",
+        "uic_name": "Hamburg Dammtor",
+        "uic_ref": "8002548",
+        "wheelchair": "yes",
+        "wikidata": "Q634142",
+        "wikipedia": "de:Bahnhof Hamburg Dammtor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9890232,
+          53.5611812
+        ]
+      },
+      "id": "node/3255993297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357946758",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Hamburg-Altona",
+        "network": "HVV",
+        "official_name": "Hamburg-Altona (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AAS",
+        "railway:station_category": "1",
+        "short_name": "Altona",
+        "uic_name": "Hamburg-Altona(S)",
+        "uic_ref": "8098553",
+        "wheelchair": "yes",
+        "wikidata": "Q650270",
+        "wikipedia": "de:Bahnhof Hamburg-Altona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9345653,
+          53.5521527
+        ]
+      },
+      "id": "node/3357946758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357984511",
+        "hvv:barrier_free": "dependent",
+        "hvv:barrier_free_psv_types": "S",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Stellingen",
+        "network": "HVV",
+        "official_name": "Hamburg-Stellingen (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ASTS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Stellingen",
+        "uic_ref": "8002559",
+        "wheelchair": "yes",
+        "wikidata": "Q7607259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9185504,
+          53.5896457
+        ]
+      },
+      "id": "node/3357984511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359947093",
+        "hvv:psv_type": "R",
+        "name": "Müssen",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AMUE",
+        "uic_ref": "8004177",
+        "wikidata": "Q50404798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5609403,
+          53.4995544
+        ]
+      },
+      "id": "node/3359947093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360055713",
+        "hvv:psv_type": "R",
+        "name": "Friedrichsruh",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AFRD",
+        "uic_ref": "8002113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3402679,
+          53.5280187
+        ]
+      },
+      "id": "node/3360055713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360122846",
+        "hvv:psv_type": "R",
+        "name": "Büchen",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABCH",
+        "railway:station_category": "3",
+        "toilets:wheelchair": "yes",
+        "uic_name": "Büchen",
+        "uic_ref": "8000058",
+        "wheelchair": "yes",
+        "wikidata": "Q800600",
+        "wikipedia": "de:Bahnhof Büchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6243802,
+          53.4741982
+        ]
+      },
+      "id": "node/3360122846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366133260",
+        "hha_ref": "LU",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Lübecker Straße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q1719628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0287328,
+          53.5597781
+        ]
+      },
+      "id": "node/3366133260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372056972",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Alte Wöhr (Stadtpark)",
+        "official_name": "Hamburg Alte Wöhr",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AAW",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_name": "Alte Wöhr (Stadtpark)",
+        "uic_ref": "8000512",
+        "wheelchair": "yes",
+        "wikidata": "Q19460179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0353635,
+          53.5980571
+        ]
+      },
+      "id": "node/3372056972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372056975",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Ohlsdorf",
+        "network": "HVV",
+        "official_name": "Hamburg-Ohlsdorf (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AOPS",
+        "railway:station_category": "4",
+        "uic_name": "Ohlsdorf",
+        "uic_ref": "8004661",
+        "wheelchair": "yes",
+        "wikidata": "Q800876",
+        "wikipedia": "de:Bahnhof Hamburg-Ohlsdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0317659,
+          53.6205472
+        ]
+      },
+      "id": "node/3372056975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372056976",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Rübenkamp (City Nord)",
+        "official_name": "Hamburg-Rübenkamp",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ARP",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_name": "Hamburg Rübenkamp",
+        "uic_ref": "8005207",
+        "wheelchair": "yes",
+        "wikidata": "Q18752621",
+        "wikipedia": "de:Bahnhof Hamburg Rübenkamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0331355,
+          53.6058815
+        ]
+      },
+      "id": "node/3372056976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372061141",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Friedrichsberg",
+        "official_name": "Hamburg Friedrichsberg",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AFBG",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_name": "Hamburg Friedrichsberg",
+        "uic_ref": "8002106",
+        "wheelchair": "yes",
+        "wikidata": "Q19412939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0574209,
+          53.5764969
+        ]
+      },
+      "id": "node/3372061141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372071086",
+        "hvv:psv_type": "R",
+        "name": "Hamburg-Tonndorf",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AOW",
+        "uic_ref": "8006197",
+        "wikidata": "Q22341347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1229526,
+          53.586388
+        ]
+      },
+      "id": "node/3372071086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372084743",
+        "hvv:psv_type": "R",
+        "name": "Hamburg-Wandsbek",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWN",
+        "railway:station_category": "4",
+        "uic_ref": "8002560",
+        "wikidata": "Q800877",
+        "wikipedia": "de:Bahnhof Hamburg-Wandsbek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0772459,
+          53.5699236
+        ]
+      },
+      "id": "node/3372084743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372093847",
+        "alt_name": "Hasselbrook",
+        "hvv:psv_type": "R",
+        "name": "Hamburg Hasselbrook",
+        "network": "HVV",
+        "operator": "DB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHSF",
+        "toilets:wheelchair": "no",
+        "train": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0559346,
+          53.5645687
+        ]
+      },
+      "id": "node/3372093847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372145519",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Klein Flottbek (Botanischer Garten)",
+        "network": "HVV",
+        "official_name": "Hamburg-Klein Flottbek",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AFB",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Klein Flottbek",
+        "uic_ref": "8003312",
+        "wheelchair": "yes",
+        "wikidata": "Q6420149",
+        "wikipedia": "de:Bahnhof Hamburg-Klein Flottbek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8608825,
+          53.5581648
+        ]
+      },
+      "id": "node/3372145519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372147544",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Sülldorf",
+        "network": "HVV",
+        "official_name": "Hamburg-Sülldorf",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASDF",
+        "railway:station_category": "5",
+        "station": "light_rail",
+        "uic_name": "Sülldorf",
+        "uic_ref": "8005785",
+        "wheelchair": "yes",
+        "wikidata": "Q16220573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7974217,
+          53.5811262
+        ]
+      },
+      "id": "node/3372147544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372160761",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "R",
+        "name": "Hamburg-Bergedorf",
+        "public_transport": "station",
+        "railway": "station",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2065766,
+          53.4898442
+        ]
+      },
+      "id": "node/3372160761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372168828",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Wilhelmsburg",
+        "official_name": "Hamburg-Wilhelmsburg (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWFS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Wilhelmsburg",
+        "uic_ref": "8002561",
+        "wheelchair": "yes",
+        "wikidata": "Q800878",
+        "wikipedia": "de:Bahnhof Hamburg-Wilhelmsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0068586,
+          53.4984734
+        ]
+      },
+      "id": "node/3372168828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376270539",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S;R",
+        "light_rail": "yes",
+        "name": "Buxtehude",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABX",
+        "railway:station_category": "3",
+        "uic_ref": "8001315",
+        "wheelchair": "yes",
+        "wikidata": "Q5003250",
+        "wikipedia": "de:Bahnhof Buxtehude"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6874689,
+          53.4705199
+        ]
+      },
+      "id": "node/3376270539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376281838",
+        "hha_ref": "JG",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Jungfernstieg",
+        "network": "HVV",
+        "official_name": "Hamburg Jungfernstieg",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AJUS",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Jungfernstieg",
+        "uic_ref": "8003137",
+        "wheelchair": "limited",
+        "wheelchair:description": "Mit der S-Bahn ist kein Aufzug vorhanden. Mit U-Bahn geht das ist ein Aufzug vorhanden.",
+        "wikidata": "Q322276",
+        "wikipedia": "de:Bahnhof Hamburg Jungfernstieg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9933974,
+          53.5520952
+        ]
+      },
+      "id": "node/3376281838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376281839",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "layer": "-2",
+        "light_rail": "yes",
+        "name": "Königstraße",
+        "official_name": "Hamburg Königstraße",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AKS",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Königstr.",
+        "uic_ref": "8006706",
+        "wheelchair": "no",
+        "wikidata": "Q6453924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9441675,
+          53.5478365
+        ]
+      },
+      "id": "node/3376281839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376281840",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Reeperbahn",
+        "network": "HVV",
+        "official_name": "Hamburg Reeperbahn",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ARES",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg Reeperbahn",
+        "uic_ref": "8006705",
+        "wheelchair": "no",
+        "wikidata": "Q3266264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9574524,
+          53.5496384
+        ]
+      },
+      "id": "node/3376281840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376301003",
+        "hvv:barrier_free": "dependent",
+        "hvv:barrier_free_direction": "-1",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Billwerder-Moorfleet",
+        "network": "HVV",
+        "official_name": "Hamburg-Billwerder-Moorfleet",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ABWM",
+        "railway:station_category": "5",
+        "uic_name": "Hamburg Billwerder-Moorfleet",
+        "uic_ref": "8000971",
+        "wheelchair": "no",
+        "wikidata": "Q18619176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0963039,
+          53.5159437
+        ]
+      },
+      "id": "node/3376301003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376301004",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Holstenstraße",
+        "official_name": "Hamburg Holstenstraße",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHST",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg Holstenstraße",
+        "uic_ref": "8002550",
+        "wheelchair": "yes",
+        "wikidata": "Q800879",
+        "wikipedia": "de:Bahnhof Hamburg Holstenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9492505,
+          53.5618787
+        ]
+      },
+      "id": "node/3376301004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376301005",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "internet_access": "no",
+        "light_rail": "yes",
+        "name": "Nettelnburg",
+        "official_name": "Hamburg-Nettelnburg",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ANTB",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Nettelnburg",
+        "uic_ref": "8004241",
+        "wheelchair": "yes",
+        "wikidata": "Q18619282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1812849,
+          53.4879443
+        ]
+      },
+      "id": "node/3376301005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376301006",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Reinbek",
+        "network": "HVV",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ARBK",
+        "railway:station_category": "5",
+        "uic_name": "Reinbek",
+        "uic_ref": "8005016",
+        "wheelchair": "yes",
+        "wikidata": "Q19590291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2533746,
+          53.5084089
+        ]
+      },
+      "id": "node/3376301006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3377293658",
+        "akn:barrier_free": "dependent",
+        "akn:barrier_free_psv_types": "A",
+        "hvv:barrier_free": "dependent",
+        "hvv:barrier_free_psv_types": "S",
+        "hvv:psv_type": "S;A",
+        "name": "Eidelstedt",
+        "network": "HVV",
+        "official_name": "Hamburg-Eidelstedt (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AEST",
+        "railway:ref:parent": "AEGS",
+        "railway:station_category": "3",
+        "station": "light_rail",
+        "train": "yes",
+        "uic_name": "Hamburg-Eidelstedt",
+        "uic_ref": "8002555",
+        "wheelchair": "yes",
+        "wikidata": "Q328028",
+        "wikipedia": "de:Bahnhof Hamburg-Eidelstedt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9073853,
+          53.5956752
+        ]
+      },
+      "id": "node/3377293658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3377293659",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Langenfelde",
+        "network": "HVV",
+        "official_name": "Hamburg-Langenfelde (S-Bahn)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALST",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Langenfelde",
+        "uic_ref": "8003541",
+        "wheelchair": "yes",
+        "wikidata": "Q800874",
+        "wikipedia": "de:Bahnhof Hamburg-Langenfelde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9308291,
+          53.5796877
+        ]
+      },
+      "id": "node/3377293659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388050318",
+        "name": "Erbstorf Ziegelei",
+        "public_transport": "station",
+        "railway": "station",
+        "tourism": "yes",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4638351,
+          53.263244
+        ]
+      },
+      "id": "node/3388050318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3391154047",
+        "hvv:psv_type": "U",
+        "name": "Elbbrücken",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0232352,
+          53.5348122
+        ]
+      },
+      "id": "node/3391154047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452417420",
+        "hha_ref": "RW",
+        "name": "Richtweg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2466054",
+        "wikipedia": "en:Richtweg (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9897878,
+          53.6957725
+        ]
+      },
+      "id": "node/3452417420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3573110198",
+        "hha_ref": "VF",
+        "hvv:psv_type": "U",
+        "name": "Volksdorf",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4016141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1631555,
+          53.650649
+        ]
+      },
+      "id": "node/3573110198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3583849098",
+        "hvv:psv_type": "A",
+        "name": "Hörgensweg",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Hamburg-Hörgensweg",
+        "uic_ref": "8002909",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9037606,
+          53.6177657
+        ]
+      },
+      "id": "node/3583849098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3583854006",
+        "hvv:psv_type": "A",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "internet_access:ssid": "Mobyclick",
+        "name": "Bönningstedt",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Bönningstedt",
+        "uic_ref": "8007047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9102813,
+          53.663254
+        ]
+      },
+      "id": "node/3583854006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3593541247",
+        "hvv:psv_type": "R",
+        "name": "Radbruch",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ARH",
+        "wikidata": "Q21514419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2891732,
+          53.3180044
+        ]
+      },
+      "id": "node/3593541247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3593612273",
+        "name": "Winsen (Luhe)",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWI",
+        "wheelchair": "yes",
+        "wikidata": "Q21514441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2086841,
+          53.3534304
+        ]
+      },
+      "id": "node/3593612273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594997072",
+        "alt_name": "Bahnhof Lüneburg",
+        "hvv:psv_type": "R",
+        "layer": "1",
+        "level": "1",
+        "name": "Lüneburg",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ALBG",
+        "railway:station_category": "2",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "uic_ref": "8000238",
+        "wheelchair": "yes",
+        "wheelchair:description": "Haupteingang mit Stufen. Gebäude rechts herum ebenerdig erreichbar. Rolli-WC. Alle Gleise mit Fahrstühlen erreichbar.",
+        "wikidata": "Q801145",
+        "wikipedia": "de:Bahnhof Lüneburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4197721,
+          53.2497728
+        ]
+      },
+      "id": "node/3594997072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3629769340",
+        "hvv:psv_type": "R",
+        "internet_access": "no",
+        "name": "Hittfeld",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHIF",
+        "railway:station_category": "6",
+        "train": "yes",
+        "uic_name": "Hittfeld",
+        "uic_ref": "8002864",
+        "wikidata": "Q16062095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9742872,
+          53.4034618
+        ]
+      },
+      "id": "node/3629769340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3640048207",
+        "name": "Prisdorf",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Prisdorf",
+        "uic_ref": "8004888",
+        "wikidata": "Q16220821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7602008,
+          53.6752944
+        ]
+      },
+      "id": "node/3640048207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3640048208",
+        "name": "Wrist",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AWST",
+        "toilets:wheelchair": "no",
+        "uic_name": "Wrist",
+        "uic_ref": "8006572",
+        "wheelchair": "limited",
+        "wikidata": "Q801629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7479266,
+          53.9320953
+        ]
+      },
+      "id": "node/3640048208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664727610",
+        "name": "Tornesch",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Tornesch",
+        "uic_ref": "8005887",
+        "wheelchair": "yes",
+        "wikidata": "Q16220827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7152916,
+          53.697001
+        ]
+      },
+      "id": "node/3664727610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3679469445",
+        "name": "Itzehoe",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AIZ",
+        "railway:station_category": "3",
+        "uic_name": "Itzehoe",
+        "uic_ref": "8003102",
+        "wheelchair": "yes",
+        "wikidata": "Q800962",
+        "wikipedia": "de:Bahnhof Itzehoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5100452,
+          53.9242344
+        ]
+      },
+      "id": "node/3679469445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3681991826",
+        "hha_ref": "LN",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "internet_access": "no",
+        "name": "Langenhorn Nord",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15851862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0175721,
+          53.6609764
+        ]
+      },
+      "id": "node/3681991826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3706213880",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Bahrenfeld",
+        "official_name": "Hamburg-Bahrenfeld",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ABAF",
+        "railway:station_category": "4",
+        "station": "light_rail",
+        "uic_name": "Hamburg-Bahrenfeld",
+        "uic_ref": "8000780",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9110511,
+          53.5600484
+        ]
+      },
+      "id": "node/3706213880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303125",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Fischbek",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AFIB",
+        "railway:station_category": "6",
+        "ref:IFOPT": "de:2000:8002556",
+        "uic_name": "Hamburg-Fischbek",
+        "uic_ref": "8002556",
+        "wheelchair": "yes",
+        "wikidata": "Q5454411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8194417,
+          53.4747742
+        ]
+      },
+      "id": "node/3707303125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303126",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Halstenbek",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHKS",
+        "railway:station_category": "4",
+        "uic_name": "Halstenbek",
+        "uic_ref": "8002545",
+        "wheelchair": "yes",
+        "wikidata": "Q5643582",
+        "wikipedia": "en:Halstenbek station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8391029,
+          53.6304085
+        ]
+      },
+      "id": "node/3707303126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303127",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "layer": "-2",
+        "light_rail": "yes",
+        "name": "Harburg Rathaus",
+        "network": "HVV",
+        "official_name": "Hamburg-Harburg Rathaus",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHRF",
+        "railway:station_category": "3",
+        "uic_name": "Hamburg-Harburg Rathaus",
+        "uic_ref": "8004267",
+        "wheelchair": "yes",
+        "wikidata": "Q246179",
+        "wikipedia": "de:Bahnhof Hamburg-Harburg Rathaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9803507,
+          53.4607292
+        ]
+      },
+      "id": "node/3707303127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303129",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "layer": "-2",
+        "light_rail": "yes",
+        "name": "Heimfeld",
+        "network": "HVV",
+        "official_name": "Hamburg-Heimfeld",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AHFS",
+        "railway:station_category": "4",
+        "uic_name": "Hamburg-Heimfeld",
+        "uic_ref": "8006749",
+        "wheelchair": "yes",
+        "wikidata": "Q10519311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9630625,
+          53.46544
+        ]
+      },
+      "id": "node/3707303129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303133",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Krupunder",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AKRS",
+        "railway:station_category": "5",
+        "uic_name": "Krupunder",
+        "uic_ref": "8003460",
+        "wheelchair": "yes",
+        "wikidata": "Q6439393",
+        "wikipedia": "en:Krupunder station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8679649,
+          53.6157071
+        ]
+      },
+      "id": "node/3707303133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3707303135",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Neukloster",
+        "network": "HVV",
+        "official_name": "Neukloster (Kr Stade)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ANL",
+        "railway:station_category": "6",
+        "station": "light_rail",
+        "uic_name": "Neukloster(Kr Stade)",
+        "uic_ref": "8004302",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6399331,
+          53.481167
+        ]
+      },
+      "id": "node/3707303135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729539031",
+        "hvv:psv_type": "R",
+        "name": "Klecken",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AKC",
+        "railway:station_category": "6",
+        "uic_name": "Klecken",
+        "uic_ref": "8003309",
+        "wikidata": "Q16061868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9289655,
+          53.3662183
+        ]
+      },
+      "id": "node/3729539031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730417169",
+        "hvv:psv_type": "R",
+        "name": "Sprötze",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "no",
+        "wikidata": "Q16061845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8117206,
+          53.3091267
+        ]
+      },
+      "id": "node/3730417169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730924892",
+        "name": "Tostedt",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikidata": "Q15945002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7313671,
+          53.2717517
+        ]
+      },
+      "id": "node/3730924892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735069030",
+        "name": "Rotenburg (Wümme)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AROG",
+        "railway:station_category": "4",
+        "uic_ref": "8000321",
+        "wikidata": "Q801380",
+        "wikipedia": "de:Bahnhof Rotenburg (Wümme)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3908499,
+          53.1124706
+        ]
+      },
+      "id": "node/3735069030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738942416",
+        "hvv:psv_type": "U",
+        "local_ref": "HCU",
+        "name": "HafenCity Universität",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q209340",
+        "wikipedia": "de:U-Bahnhof HafenCity Universität"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0079629,
+          53.5405541
+        ]
+      },
+      "id": "node/3738942416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3739434319",
+        "name": "Bad Schwartau",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ASCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7022782,
+          53.9158727
+        ]
+      },
+      "id": "node/3739434319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3741659626",
+        "hha_ref": "HX",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "layer": "-4",
+        "level": "-3",
+        "name": "Hauptbahnhof Nord",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "tunnel": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3783675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006127,
+          53.5541197
+        ]
+      },
+      "id": "node/3741659626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785107106",
+        "hvv:psv_type": "R",
+        "name": "Bavendorf",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6280561,
+          53.187576
+        ]
+      },
+      "id": "node/3785107106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785107119",
+        "abandoned:railway": "station",
+        "hvv:psv_type": "R",
+        "name": "Vastorf",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q22675891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5551365,
+          53.1991696
+        ]
+      },
+      "id": "node/3785107119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789435345",
+        "hvv:psv_type": "R",
+        "name": "Kutenholz",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3088841,
+          53.4704846
+        ]
+      },
+      "id": "node/3789435345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3797475593",
+        "hvv:psv_type": "A",
+        "name": "Großenaspe",
+        "network": "HVV",
+        "operator": "AKN",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AGSA",
+        "railway:ref:DB": "AGSA",
+        "ref:IFOPT": "de:01060:37989",
+        "ref:IFOPT:DB": "de:01060:37989",
+        "uic_name": "Großenaspe",
+        "uic_ref": "8007060",
+        "wheelchair": "yes",
+        "wikidata": "Q19614099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970178,
+          53.981185
+        ]
+      },
+      "id": "node/3797475593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3811181517",
+        "hvv:psv_type": "R",
+        "name": "Suerhop",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "no",
+        "wikidata": "Q16061860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8555102,
+          53.3157842
+        ]
+      },
+      "id": "node/3811181517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3811251014",
+        "hvv:psv_type": "R",
+        "image": "https://commons.wikimedia.org/wiki/File:Bahnhof_Buesenbachtal.jpg",
+        "name": "Büsenbachtal",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "no",
+        "wheelchair:description": "14% Steigung am Zugang des Bahnhofes",
+        "wikidata": "Q21514474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8586634,
+          53.2696577
+        ]
+      },
+      "id": "node/3811251014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3824825187",
+        "name": "Wintermoor",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AWIM",
+        "railway:station_category": "6",
+        "uic_ref": "8006489",
+        "wikidata": "Q21514490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8286062,
+          53.1860927
+        ]
+      },
+      "id": "node/3824825187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3824987962",
+        "name": "Wolterdingen",
+        "official_name": "Wolterdingen (Han)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AWOL",
+        "railway:station_category": "7",
+        "toilets:wheelchair": "no",
+        "uic_name": "Wolterdingen(Han)",
+        "uic_ref": "8006559",
+        "wheelchair": "yes",
+        "wikidata": "Q23012149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8454387,
+          53.0267705
+        ]
+      },
+      "id": "node/3824987962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893370815",
+        "hvv:psv_type": "R",
+        "name": "Wendisch Evern",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q22675002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4627091,
+          53.2176265
+        ]
+      },
+      "id": "node/3893370815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893593174",
+        "hvv:psv_type": "R",
+        "name": "Dahlenburg",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q22679109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7088588,
+          53.1693358
+        ]
+      },
+      "id": "node/3893593174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893635699",
+        "hvv:psv_type": "R",
+        "name": "Neetzendorf",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q22679259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7605553,
+          53.1637524
+        ]
+      },
+      "id": "node/3893635699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893654732",
+        "abandoned:railway": "station",
+        "hvv:psv_type": "R",
+        "name": "Göhrde",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AGH",
+        "ref:IFOPT": "de:3355:8002304",
+        "uic_ref": "8002304",
+        "wikidata": "Q323931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8511705,
+          53.1677321
+        ]
+      },
+      "id": "node/3893654732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3899024721",
+        "hvv:psv_type": "R",
+        "name": "Hitzacker",
+        "public_transport": "station",
+        "railway": "halt;blockpost",
+        "railway:ref": "AHZ",
+        "wikidata": "Q22812921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0383093,
+          53.1392842
+        ]
+      },
+      "id": "node/3899024721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3899059462",
+        "hvv:psv_type": "R",
+        "name": "Dannenberg Ost",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ADB",
+        "railway:station_category": "7",
+        "uic_ref": "8001372",
+        "wikidata": "Q800642",
+        "wikipedia": "de:Bahnhof Dannenberg Ost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1175915,
+          53.1049816
+        ]
+      },
+      "id": "node/3899059462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010276891",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Bergedorf",
+        "network": "HVV",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABG S",
+        "railway:station_category": "3",
+        "uic_ref": "8002554",
+        "wheelchair": "yes",
+        "wikidata": "Q320225",
+        "wikipedia": "de:Bahnhof Hamburg-Bergedorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2063722,
+          53.4899751
+        ]
+      },
+      "id": "node/4010276891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4042376366",
+        "hha_ref": "AL",
+        "hvv:psv_type": "U",
+        "name": "Alsterdorf",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2804230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0116906,
+          53.6064146
+        ]
+      },
+      "id": "node/4042376366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4042444590",
+        "hha_ref": "LA",
+        "hvv:psv_type": "U",
+        "name": "Lattenkamp (Sporthalle)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "wheelchair": "yes",
+        "wikidata": "Q6591260",
+        "wikipedia": "en:Lattenkamp (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9946109,
+          53.5998672
+        ]
+      },
+      "id": "node/4042444590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4042447335",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Neu Wulmstorf",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ANWF",
+        "railway:station_category": "6",
+        "uic_name": "Neu Wulmstorf",
+        "uic_ref": "8004247",
+        "wheelchair": "yes",
+        "wikidata": "Q15261837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7881746,
+          53.4730295
+        ]
+      },
+      "id": "node/4042447335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4049755223",
+        "hha_ref": "BO",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Borgweg (Stadtpark)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465845",
+        "wikipedia": "en:Borgweg (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0147719,
+          53.5907696
+        ]
+      },
+      "id": "node/4049755223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052518767",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Iserbrook",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "wikidata": "Q16220663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8143868,
+          53.5765648
+        ]
+      },
+      "id": "node/4052518767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053151594",
+        "hha_ref": "EM",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Emilienstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "wheelchair": "yes",
+        "wikidata": "Q2152075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9525431,
+          53.5716854
+        ]
+      },
+      "id": "node/4053151594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053151596",
+        "hha_ref": "HL",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Hagendeel",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "wheelchair": "yes",
+        "wikidata": "Q2465907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9453653,
+          53.6043398
+        ]
+      },
+      "id": "node/4053151596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053151598",
+        "hha_ref": "LT",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Lutterothstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "wheelchair": "yes",
+        "wikidata": "Q2252910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9476215,
+          53.5819938
+        ]
+      },
+      "id": "node/4053151598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053151599",
+        "hha_ref": "OS",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Osterstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2151985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9516599,
+          53.5761625
+        ]
+      },
+      "id": "node/4053151599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053158619",
+        "hvv:psv_type": "R",
+        "name": "Kupfermühle",
+        "network": "Hamburger Verkehrsverbund",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Kupfermühle",
+        "uic_ref": "8003478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3263655,
+          53.7621549
+        ]
+      },
+      "id": "node/4053158619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053198947",
+        "akn:barrier_free": "dependent",
+        "akn:barrier_free_psv_types": "A",
+        "hvv:psv_type": "A;R",
+        "name": "Elmshorn",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AEL",
+        "uic_name": "Elmshorn",
+        "uic_ref": "8000092",
+        "wheelchair": "limited",
+        "wikidata": "Q800722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6592636,
+          53.7542251
+        ]
+      },
+      "id": "node/4053198947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4053206391",
+        "name": "Bargteheide",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABAE",
+        "uic_ref": "8000804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.269106,
+          53.7281839
+        ]
+      },
+      "id": "node/4053206391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4063037581",
+        "hha_ref": "FL",
+        "hvv:psv_type": "U",
+        "name": "Fuhlsbüttel Nord",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q14540885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0166781,
+          53.6392522
+        ]
+      },
+      "id": "node/4063037581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4063111596",
+        "hha_ref": "LM",
+        "hvv:psv_type": "U",
+        "name": "Langenhorn Markt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15851861",
+        "wikipedia": "en:Langenhorn Markt (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0172131,
+          53.6488888
+        ]
+      },
+      "id": "node/4063111596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4064650103",
+        "hha_ref": "KM",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Kiwittsmoor",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15103437",
+        "wikipedia": "en:Kiwittsmoor (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0161807,
+          53.6749843
+        ]
+      },
+      "id": "node/4064650103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4102358153",
+        "hha_ref": "BT",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "light_rail": "yes",
+        "name": "Berliner Tor",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0230852,
+          53.5534288
+        ]
+      },
+      "id": "node/4102358153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127523989",
+        "hvv:barrier_free": "dependent",
+        "hvv:barrier_free_lines": "S1",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Blankenese",
+        "network": "HVV",
+        "official_name": "Hamburg-Blankenese",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AB",
+        "railway:station_category": "3",
+        "uic_name": "Blankenese",
+        "uic_ref": "8001007",
+        "wheelchair": "yes",
+        "wikidata": "Q800871",
+        "wikipedia": "de:Bahnhof Hamburg-Blankenese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8152673,
+          53.5644641
+        ]
+      },
+      "id": "node/4127523989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128824965",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Hasselbrook",
+        "network": "HVV",
+        "official_name": "Hamburg Hasselbrook (S-Bahn)",
+        "operator": "S-Bahn Hamburg GmbH",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHSB",
+        "railway:station_category": "3",
+        "uic_name": "Hamburg Hasselbrook",
+        "uic_ref": "8002628",
+        "wheelchair": "yes",
+        "wikidata": "Q800891",
+        "wikipedia": "de:Bahnhof Hasselbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0556724,
+          53.5646689
+        ]
+      },
+      "id": "node/4128824965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4129931556",
+        "hvv:psv_type": "S",
+        "light_rail": "yes",
+        "name": "Hamburg Airport (Flughafen)",
+        "network": "HVV",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AAI",
+        "station": "light_rail",
+        "uic_ref": "8002547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0066778,
+          53.6326466
+        ]
+      },
+      "id": "node/4129931556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172565219",
+        "name": "Bleckede",
+        "public_transport": "station",
+        "railway": "station",
+        "tourism": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7269688,
+          53.2918667
+        ]
+      },
+      "id": "node/4172565219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229779983",
+        "hha_ref": "GA",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Garstedt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9860415,
+          53.6844739
+        ]
+      },
+      "id": "node/4229779983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4240997099",
+        "hha_ref": "KR",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Klosterstern",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q617499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988216,
+          53.5816738
+        ]
+      },
+      "id": "node/4240997099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242323423",
+        "hha_ref": "BN",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Buckhorn",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q3646299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1557408,
+          53.664363
+        ]
+      },
+      "id": "node/4242323423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247987506",
+        "hvv:psv_type": "U",
+        "name": "Uhlandstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q617555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0267856,
+          53.5646403
+        ]
+      },
+      "id": "node/4247987506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269580494",
+        "hha_ref": "OT",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Ohlstedt",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3881293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1371187,
+          53.6942752
+        ]
+      },
+      "id": "node/4269580494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4363449846",
+        "name": "Meckelfeld",
+        "official_name": "Meckelfeld Hp",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AMDH",
+        "wheelchair": "no",
+        "wikidata": "Q21514221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0291223,
+          53.4248897
+        ]
+      },
+      "id": "node/4363449846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534899068",
+        "local_ref": "1",
+        "name": "Wakendorf",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AWK",
+        "railway:station_category": "7",
+        "uic_ref": "8006148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3659087,
+          53.8662637
+        ]
+      },
+      "id": "node/4534899068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4546145795",
+        "name": "Elbbrücken",
+        "official_name": "Hamburg Elbbrücken",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AELB",
+        "source:railway:ref": "https://data.deutschebahn.com/dataset/data-betriebsstellen/resource/0a833220-a3e5-4056-8c5e-64dc575c71fa",
+        "start_date": "2019-12-15",
+        "station": "light_rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025007,
+          53.5351433
+        ]
+      },
+      "id": "node/4546145795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591123505",
+        "name": "Krempe",
+        "public_transport": "station",
+        "railway": "halt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4821798,
+          53.8350654
+        ]
+      },
+      "id": "node/4591123505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4725309875",
+        "name": "Hamburg-Harburg",
+        "network": "HVV",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AHAR",
+        "railway:station_category": "2",
+        "uic_ref": "8000147",
+        "wheelchair": "yes",
+        "wikidata": "Q566812",
+        "wikipedia": "de:Bahnhof Hamburg-Harburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9917669,
+          53.4557227
+        ]
+      },
+      "id": "node/4725309875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4850874127",
+        "hvv:psv_type": "R",
+        "name": "Bardowick Hp",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ABAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3721036,
+          53.2903563
+        ]
+      },
+      "id": "node/4850874127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5196118052",
+        "hha_ref": "AO",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Ahrensburg Ost",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15103426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2422404,
+          53.6613469
+        ]
+      },
+      "id": "node/5196118052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228160282",
+        "hha_ref": "SN",
+        "hvv:psv_type": "U",
+        "name": "Stephansplatz (Oper/CCH)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9893053,
+          53.5587463
+        ]
+      },
+      "id": "node/5228160282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228160283",
+        "hha_ref": "FE",
+        "hvv:psv_type": "U",
+        "name": "Feldstraße (Heiligengeistfeld)",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9686706,
+          53.5569126
+        ]
+      },
+      "id": "node/5228160283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257886399",
+        "hha_ref": "ST",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Steinstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q827583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0062431,
+          53.5492731
+        ]
+      },
+      "id": "node/5257886399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257886400",
+        "hha_ref": "LS",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Lohmühlenstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q180052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0188852,
+          53.5565393
+        ]
+      },
+      "id": "node/5257886400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257886401",
+        "hha_ref": "GM",
+        "hvv:psv_type": "U",
+        "name": "Gänsemarkt (Oper)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q822899",
+        "wikipedia": "en:Gänsemarkt (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9860402,
+          53.5556593
+        ]
+      },
+      "id": "node/5257886401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257886402",
+        "hha_ref": "BL",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "layer": "2",
+        "name": "Baumwall (Elbphilharmonie)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9816291,
+          53.5442142
+        ]
+      },
+      "id": "node/5257886402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257905676",
+        "hha_ref": "CH",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Christuskirche",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1719687",
+        "wikipedia": "en:Christuskirche (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962444,
+          53.5695526
+        ]
+      },
+      "id": "node/5257905676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521742779",
+        "hvv:psv_type": "R",
+        "name": "Buchholz (Nordheide)",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABLZ",
+        "railway:station_category": "3",
+        "uic_name": "Buchholz(Nordheide)",
+        "uic_ref": "8000056",
+        "wheelchair": "yes",
+        "wikidata": "Q15944982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8749387,
+          53.3243628
+        ]
+      },
+      "id": "node/5521742779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5527648759",
+        "hvv:psv_type": "U",
+        "name": "Sengelmannstraße (City Nord)",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0220004,
+          53.6093953
+        ]
+      },
+      "id": "node/5527648759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5527651211",
+        "hha_ref": "WR",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Wandsbeker Chaussee",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0576225,
+          53.56982
+        ]
+      },
+      "id": "node/5527651211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532829853",
+        "hha_ref": "FA",
+        "hvv:barrier_free": "yes",
+        "hvv:psv_type": "U",
+        "name": "Farmsen",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1584382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1177994,
+          53.607222
+        ]
+      },
+      "id": "node/5532829853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582000248",
+        "name": "Ratzeburg",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ARF",
+        "uic_ref": "8004952",
+        "wikidata": "Q9304667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7406807,
+          53.6981841
+        ]
+      },
+      "id": "node/5582000248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656833096",
+        "hha_ref": "SR",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Straßburger Straße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q6590961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0678807,
+          53.5820205
+        ]
+      },
+      "id": "node/5656833096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658534545",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Husumweg",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2489331,
+          53.6841609
+        ]
+      },
+      "id": "node/5658534545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5729179972",
+        "name": "Brokstedt",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABRS",
+        "uic_name": "Brokstedt",
+        "uic_ref": "8001190",
+        "wikidata": "Q19368505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8242475,
+          53.990313
+        ]
+      },
+      "id": "node/5729179972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981428109",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Trappenkamp, ZOB",
+        "network": "HVV",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2203592,
+          54.0378808
+        ]
+      },
+      "id": "node/5981428109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6069304543",
+        "name": "Timmendorfer Strand",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ATIM",
+        "train": "yes",
+        "uic_ref": "8005874",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7622993,
+          53.9943951
+        ]
+      },
+      "id": "node/6069304543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6069304551",
+        "name": "Scharbeutz",
+        "operator": "DB Netz AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ASAZ",
+        "train": "yes",
+        "uic_ref": "8005321",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7457554,
+          54.0187775
+        ]
+      },
+      "id": "node/6069304551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6079838037",
+        "hvv:psv_type": "U",
+        "internet_access": "wlan",
+        "name": "Hagenbecks Tierpark",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9440359,
+          53.5925874
+        ]
+      },
+      "id": "node/6079838037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6146300735",
+        "hha_ref": "ME",
+        "hvv:psv_type": "U",
+        "name": "Meiendorfer Weg",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3853997",
+        "wikipedia": "en:Meiendorfer Weg (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1559218,
+          53.6386437
+        ]
+      },
+      "id": "node/6146300735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6225974661",
+        "hha_ref": "NN",
+        "hvv:psv_type": "U",
+        "name": "Niendorf Nord",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "NN",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2363905",
+        "wikipedia": "en:Niendorf Nord (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9501122,
+          53.6408535
+        ]
+      },
+      "id": "node/6225974661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6233764950",
+        "hha_ref": "AW",
+        "hvv:psv_type": "U",
+        "name": "Ahrensburg West",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15103429",
+        "wikipedia": "en:Ahrensburg West (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.219403,
+          53.6646389
+        ]
+      },
+      "id": "node/6233764950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284717662",
+        "hha_ref": "RA",
+        "hvv:psv_type": "U",
+        "name": "Rathaus",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q831350",
+        "wikipedia": "en:Rathaus (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9940526,
+          53.550371
+        ]
+      },
+      "id": "node/6284717662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331000043",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "internet_access": "no",
+        "name": "Neu-Rautendorfer Straße 168",
+        "network": "VBN",
+        "operator": "EVB Elbe-Weser",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0544902,
+          53.1503648
+        ]
+      },
+      "id": "node/6331000043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579970222",
+        "name": "Reppenhagen",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.123285,
+          53.9340451
+        ]
+      },
+      "id": "node/6579970222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669924406",
+        "name": "Boostedt",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ABOS",
+        "railway:ref:DB": "ABOS",
+        "ref:IFOPT": "de:01060:37988",
+        "ref:IFOPT:DB": "de:01060:37988",
+        "uic_name": "Boostedt",
+        "uic_ref": "8007061",
+        "wheelchair": "yes",
+        "wikidata": "Q19614127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0162093,
+          54.01791
+        ]
+      },
+      "id": "node/6669924406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697115900",
+        "name": "Lübeck-Kücknitz",
+        "network": "NAH.SH",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ALKR",
+        "uic_name": "Lübeck-Kücknitz",
+        "uic_ref": "8003776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8192037,
+          53.9249568
+        ]
+      },
+      "id": "node/6697115900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6711918209",
+        "name": "Mölln (Lauenburg)",
+        "network": "HVV",
+        "operator": "DB Station&Service AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AMLN",
+        "uic_ref": "8004057",
+        "wikidata": "Q801209",
+        "wikipedia": "de:Bahnhof Mölln (Lauenburg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6830836,
+          53.6243339
+        ]
+      },
+      "id": "node/6711918209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6769926076",
+        "name": "Hüttenbusch",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "usage": "tourism",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9622829,
+          53.2734524
+        ]
+      },
+      "id": "node/6769926076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6770022339",
+        "description": "Döhle Bahnhof",
+        "name": "Döhle",
+        "public_transport": "station",
+        "railway": "halt",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0440031,
+          53.1628334
+        ]
+      },
+      "id": "node/6770022339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6771294071",
+        "hvv:psv_type": "A",
+        "name": "Bad Bramstedt Kurhaus",
+        "network": "HVV",
+        "operator": "AKN Eisenbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "ABSK",
+        "railway:ref:DB": "ABSK",
+        "ref:IFOPT": "de:01060:37991",
+        "ref:IFOPT:DB": "de:01060:37991",
+        "uic_name": "Bad Bramstedt Kurhaus",
+        "uic_ref": "8007057",
+        "wheelchair": "no",
+        "wikidata": "Q19611757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8904419,
+          53.9032458
+        ]
+      },
+      "id": "node/6771294071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6771294263",
+        "hvv:psv_type": "A",
+        "name": "Holstentherme",
+        "network": "HVV",
+        "operator": "AKN Eisenbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "railway:ref": "AKTKH",
+        "railway:ref:DB": "AKTKH",
+        "ref:IFOPT": "de:01060:37974",
+        "ref:IFOPT:DB": "de:01060:37974",
+        "uic_name": "Holstentherme",
+        "uic_ref": "8007203",
+        "wheelchair": "limited",
+        "wikidata": "Q19609621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9458764,
+          53.8400377
+        ]
+      },
+      "id": "node/6771294263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6771349835",
+        "name": "Geesthacht, Freibad",
+        "public_transport": "station",
+        "railway": "halt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3740723,
+          53.4280904
+        ]
+      },
+      "id": "node/6771349835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900614289",
+        "hvv:barrier_free": "no",
+        "name": "Sternschanze (Messe)",
+        "network": "HVV",
+        "official_name": "Hamburg Sternschanze (U-Bahn)",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wheelchair:description:en": "no elevators. Escalators only run from the platform up to street level (not from street level to platform)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9692184,
+          53.5644032
+        ]
+      },
+      "id": "node/6900614289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900614290",
+        "hha_ref": "PA",
+        "hvv:psv_type": "U",
+        "name": "St. Pauli",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q826353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9700752,
+          53.5507957
+        ]
+      },
+      "id": "node/6900614290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6903682283",
+        "hha_ref": "JM",
+        "hvv:psv_type": "U",
+        "name": "Joachim-Mähl-Straße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "halt",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9503051,
+          53.628199
+        ]
+      },
+      "id": "node/6903682283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6906144897",
+        "hvv:psv_type": "U",
+        "name": "Hamburger Straße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465909",
+        "wikipedia": "en:Hamburger Straße (Hamburg U-Bahn station)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0373151,
+          53.5744808
+        ]
+      },
+      "id": "node/6906144897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6907067953",
+        "hha_ref": "RI",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Ritterstraße",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wikidata": "Q1650147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04668,
+          53.5676565
+        ]
+      },
+      "id": "node/6907067953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985171368",
+        "hha_ref": "EP",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Eppendorfer Baum",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2465872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9852871,
+          53.583787
+        ]
+      },
+      "id": "node/6985171368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7047553146",
+        "hvv:psv_type": "U",
+        "name": "Oldenfelde",
+        "network": "HVV",
+        "operator": "Hamburger Hochbahn AG",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1289356,
+          53.6176973
+        ]
+      },
+      "id": "node/7047553146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7475370734",
+        "hha_ref": "HA",
+        "hvv:barrier_free": "no",
+        "hvv:psv_type": "U",
+        "name": "Habichtstraße",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "wikidata": "Q3782339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0522756,
+          53.5936135
+        ]
+      },
+      "id": "node/7475370734"
+    }
+  ]
+}
